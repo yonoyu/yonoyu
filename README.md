@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yonoyu
-- 👀 I’m interested in exploring and learning more in the realm of Programming
-- 🌱 I’m currently learning Python!
+- 👀 
+- 🌱 
 
 Hopefully this will serve as a documentation of my learning journeys and projects!
 
